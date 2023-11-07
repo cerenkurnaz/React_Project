@@ -1,9 +1,82 @@
-.header{
-  width: 100%;
-  height: 20%;
-  background-color: orange;
+.App {
+  text-align: left;
+}
+
+nav {
+  background-color: rgb(254, 130, 6);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
 }
 
 .logo{
   border-radius: 10%;
+  width: 7%;
 }
+
+.navbar-list {
+  list-style-type: none;
+  padding: 0;
+  padding-right: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+li {
+  margin: 10px;
+}
+
+.navbar-list a {
+  text-decoration: none;
+  color: rgb(247, 243, 243);
+  font-weight: bold;
+  padding-right: 30px;
+  font-size: 20px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.content{
+  display: flex;
+  justify-content: space-around;
+}
+
+.kategori{
+  color: orangered;
+  border: 2px solid orangered;
+  width: 30%;
+}
+
+.kategori h3{
+  padding: 25px;
+  font-size: 30px;
+}
+
+.kategori a{
+  padding: 20px;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+}
+.kategori a:hover{
+  text-decoration: underline;
+}
+.urun{
+  color: orangered;
+  border: 2px solid orangered;
+  width: 60%;
+}
+
+.urun-list{
+  border-radius: 10%;
+  width: 90%;
+}
+
+.urun-list img{
+  padding-right: 60px;
+}
+
