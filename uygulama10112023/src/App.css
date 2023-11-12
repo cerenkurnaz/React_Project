@@ -1,0 +1,115 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.col-12{
+  background-color: orange;
+  display: flex;
+  color: wheat;
+}
+.col-2{
+  background-color:orange
+}
+.col-10{
+  background-color: rgb(245, 238, 232);
+}
+
+.logo{
+  border-radius: 20%;
+  height: 100px;
+
+}
+
+.navbar-menu{
+  display: flex;
+  padding-left: 10%;
+  
+}
+
+.navbar-menu p{
+  padding: 5%;
+  font-weight: bold;
+  color: bisque;
+}
+
+.container-fluid{
+  background-color: orange!important;
+  border: none;
+  color: rgb(245, 238, 232);
+}
+
+.navbar navbar-expand-lg bg-body-tertiary{
+  background-color: orange!important;
+  color: rgb(245, 238, 232)!important;
+}
+
+.Kategori{
+  color: rgb(245, 238, 232);
+}
+
+.kategori-list{
+  text-align: left;
+  list-style: none;
+  font-size: 20px;
+}
+
+.kategori-list li:hover{
+  text-decoration: underline;
+}
+
+.urun{
+  color: orangered;
+  border: 2px solid orangered;
+  width: 60%;
+  padding: 20px;
+  margin: 20px;
+  margin-left: 50px;
+}
+
+.urun-list{
+  border-radius: 10%;
+  width: 90%;
+}
+
+.urun-list img{
+  padding-right: 60px;
+  width: 300px;
+  border-radius: 10%;
+  max-height: 40%;
+}
+
