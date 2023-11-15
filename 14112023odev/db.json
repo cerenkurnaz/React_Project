@@ -1,0 +1,156 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 2,
+      "productName": "C# Hakkında",
+      "image":"images/c.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+        "price": 1563254
+
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "React Json",
+      "image":"images/react.jpeg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+        "price": 418632
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "productName": "Node.js Kurulumu",
+      "image":"images/js.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+        "price": 48913
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "productName": "C# Giriş",
+      "image":"images/c.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+        "price": 253586
+    },
+
+    {
+      "id": 8,
+      "categoryId": 2,
+      "productName": "C# Class Yapıları",
+      "image":"images/c.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+        "price": 401023579
+    },
+
+    {
+      "id": 11,
+      "categoryId": 4,
+      "productName": "HTML Nedir?",
+      "image":"images/html.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+        "price": 846321
+    },
+    {
+      "id": 12,
+      "categoryId": 4,
+      "productName": "HTML Hakkında",
+      "image":"images/html.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+        "price": 386590
+    },
+
+    {
+      "id": 21,
+      "categoryId": 3,
+      "productName": "JS Hakkında",
+      "image":"images/js.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+        "price": 10896537
+    },
+    {
+      "id": 22,
+      "categoryId": 5,
+      "productName": "CSS Nedir?",
+      "image":"images/js.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+        "price": 2146479
+    },
+    {
+      "id": 23,
+      "categoryId": 5,
+      "productName": "HTML ve CSS",
+      "image":"images/css.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+        "price": 95641
+    },
+    {
+      "id": 24,
+      "categoryId": 1,
+      "productName": "React Giriş",
+      "image":"images/react.jpeg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+        "price": 4651
+    },
+    {
+      "id": 25,
+      "categoryId": 3,
+      "productName": "JS Giriş",
+      "image":"images/js.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+        "price": 14468
+    },
+    {
+      "id": 26,
+      "categoryId": 3,
+      "productName": "JS ile Basit Uygulama",
+      "image":"images/js.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+        "price": 3165343
+    },
+    {
+      "id": 31,
+      "categoryId": 4,
+      "productName": "HTML Sayfa Yapısı",
+      "image":"images/html.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+        "price": 126463
+    },
+    {
+      "id": 32,
+      "categoryId": 4,
+      "productName": "HTML ile Yapılabilecekler",
+      "image":"images/html.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 4761301
+    }
+
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "React"
+
+    },
+    {
+      "id": 2,
+      "categoryName": "C#"
+
+    },
+    {
+      "id": 3,
+      "categoryName": "JavaScript"
+
+    },
+    {
+      "id": 4,
+      "categoryName": "HTML"
+
+    },
+    {
+      "id": 5,
+      "categoryName": "CSS"
+
+    }
+  ]
+}
