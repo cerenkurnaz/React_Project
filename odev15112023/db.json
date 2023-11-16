@@ -1,0 +1,183 @@
+{
+  "kategoriler": [
+    {
+      "id": 1,
+      "ad": "Kadın"
+    },
+    {
+      "id": 2,
+      "ad": "Erkek"
+    },
+    {
+      "id": 3,
+      "ad": "Anne&Çocuk"
+    },
+    {
+      "id": 4,
+      "ad": "Ev&Yaşam"
+    },
+    {
+      "id": 5,
+      "ad": "Süpermarket"
+    },
+    {
+      "id": 6,
+      "ad": "Kozmetik"
+    },
+    {
+      "id": 7,
+      "ad": "Ayakkabı&Çanta"
+    },
+    {
+      "id": 8,
+      "ad": "Elektronik"
+    }
+  ],
+  "bloglar": [
+    {
+      "id": 1,
+      "kategoriId": 1,
+      "baslik": "IPHONE",
+      "aciklama": "Iphone 15 Pro Max 1 TB",
+      "resim": "https://cdn.dsmcdn.com/ty788/campaign/banners/original/618496/fba09f86d9_0.jpg",
+      "favoriSayisi": 15,
+      "fiyat": "90000 TL",
+      "banner": "1",
+      "tag": [
+        "elektronik",
+        "erkek",
+        "kadın"
+      ]
+    },
+    {
+      "id": 2,
+      "kategoriId": 2,
+      "baslik": "PUMA",
+      "aciklama": "Puma Sırt Çantası siyah",
+      "resim": "https://cdn.dsmcdn.com/ty1029/pimWidgetApi/mobile_20231103082209_2331415AyakkabiCantaMobile202309081511.jpg",
+      "favoriSayisi": 10,
+      "fiyat": "1000 TL",
+      "banner": 1,
+      "tag": [
+        "erkek",
+        "çanta",
+        "moda",
+        "kadın"
+      ]
+    },
+    {
+      "id": 3,
+      "kategoriId": 3,
+      "baslik": "NIKE",
+      "aciklama": "Nıke Spor Ayakkabı (36,37,38,39,40)",
+      "resim": "https://cdn.dsmcdn.com/ty1031/pimWidgetApi/mobile_20231103113600_mobile20230906100645nike.jpg",
+      "favoriSayisi": 20,
+      "fiyat": "4000 TL",
+      "banner": 0,
+      "tag": [
+        "Ayakkabı&Çanta",
+        "erkek",
+        "kadın"
+      ]
+    },
+    {
+      "id": 4,
+      "kategoriId": 4,
+      "baslik": "CAUDALIE",
+      "aciklama": "Caudalie nenlendirici 30ml",
+      "resim": "https://cdn.dsmcdn.com/ty1044/pimWidgetApi/mobile_20231115071715_2357976KozmetikMobile202311151001.jpg",
+      "favoriSayisi": 18,
+      "fiyat": "600 TL" ,
+      "banner": 0,
+      "tag": [
+        "erkek",
+        "kozmetik",
+        "kadın"
+      ]
+    },
+    {
+      "id": 5,
+      "kategoriId": 5,
+      "baslik": "ENGLISH HOME",
+      "aciklama": "EnglishHome çift kişilik pamuklu nevresim takımı. (Mavi, Pembe)",
+      "resim": "https://cdn.dsmcdn.com/ty1019/pimWidgetApi/mobile_20231020151119_mobile20230904054713ehmeyluls.jpg",
+      "favoriSayisi": 22,
+      "fiyat": "1500 TL",
+      "banner": 1,
+      "tag": [
+        "Ev&yaşam"
+      ]
+    },
+    {
+      "id": 6,
+      "kategoriId": 6,
+      "baslik": "SUPERMARKET",
+      "aciklama": "Süpermarket Fırsatlarını şimdmi sipariş ver dakikalar içerisinde kapında!",
+      "resim": "https://cdn.dsmcdn.com/ty1029/pimWidgetApi/mobile_20231102112442_2352711SupermarketMobile202311021402.jpg",
+      "favoriSayisi": 17,
+      "fiyat": "2500 TL",
+      "banner": 0,
+      "tag": [
+        "supermarket",
+        "Ev&yaşam"
+      ]
+    },
+    {
+      "id": 7,
+      "kategoriId": 6,
+      "baslik": "LUVI SHOES",
+      "aciklama": "Kadın loafer ayakkabı (Bej) (36,37,38,39,40)",
+      "resim": "https://cdn.dsmcdn.com/ty1023/pimWidgetApi/mobile_20231027062854_2258686AyakkabiCantaMobile202310261801.jpg",
+      "favoriSayisi": 30,
+      "fiyat": "2500 TL",
+      "banner": 0,
+      "tag": [
+        "Ayakkabı&Çanta",
+        "kadın",
+        "erkek"
+      ]
+    },
+    {
+      "id": 8,
+      "kategoriId": 2,
+      "baslik": "ADILIŞIK",
+      "aciklama": "Şıklığın adresi Adil Işıkta sizleri muhteşem kasım fırsatları bekliyor.",
+      "resim": "https://cdn.dsmcdn.com/ty1045/pimWidgetApi/mobile_20231115124713_2323775KadinMobile202309061854.jpg",
+      "favoriSayisi": 25,
+      "banner": 0,
+      "tag": [
+        "moda",
+        "trend",
+        "giyim"
+      ]
+    },
+    {
+      "id": 9,
+      "kategoriId": 3,
+      "baslik": "BIODERMA",
+      "aciklama": "Bioderma ile cildine ve kendine iyi bak. Ayrıca dermokozmetiklerde muhteşem kasım fırsatları başladı.",
+      "resim": "https://cdn.dsmcdn.com/ty865/pimWidgetApi/mobile_20230504121409_2299893KozmetikMobile202305041301.jpg",
+      "favoriSayisi": 28,
+      "banner": 0,
+      "tag": [
+        "kozmetik",
+        "kadın",
+        "erkek"
+      ]
+    },
+    {
+      "id": 10,
+      "kategoriId": 4,
+      "baslik": "ROSSMANN",
+      "aciklama": "Rosmann ürünleri ile doğal ve temiz içerikleri ile evine ve kendine iyi bak!",
+      "resim": "https://cdn.dsmcdn.com/ty986/pimWidgetApi/mobile_20230818130708_2329140SupermarketMobile202308181601.jpg",
+      "favoriSayisi": 32,
+      "banner": 1,
+      "tag": [
+        "Ev&yaşam",
+        "supermarket",
+        "kozmetik"
+      ]
+    }
+  ]
+}
